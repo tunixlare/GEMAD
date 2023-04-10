@@ -1,0 +1,113 @@
+.gema{
+	width: 200px;
+	height: 100px;
+
+}
+
+.navbar{
+
+	background-color: #000000;
+}
+
+header {
+
+	background-color: #000000;
+}
+iframe{
+	width: 100%;
+	height: 1300px;
+	margin: auto;
+
+}
+
+.opciones{
+
+color: #ffffff;
+padding: 20px;
+text-decoration: none;
+font-family:Times New Roman;
+font-size: 20px;
+}
+
+.dropdown-menu {
+
+background-color: #000000;
+font-family:Times New Roman;
+font-size: 25px;
+}
+
+.plegable{
+
+color: rgb(252, 252, 252);
+text-decoration: none;
+
+}
+
+#demo{
+
+height: 50px;
+width: 100%;
+}
+
+.imagen{
+
+height: 460px;
+width: 100%;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+
+#contenedor_medio{
+	margin-top: 350px;
+	margin-bottom: 75px;
+}
+
+img{
+	height: 65;
+}
+
+footer{
+	height: 200px;
+	background-color: #000000
+}
+
+.container{
+	
+  
+}
+
+
+.whatsapp{
+	background-color: #D0D3D4;
+	border: none;
+	margin-left: 20px;
+	margin-top: 15PX;
+}
+
+
+.modal-header{
+
+    background-color: #000000;
+    
+    }
+    
+    .modal-header{
+        
+        background-color: #000000;
+        }
+    
+    
+        .btn{
+    
+    background-color: #ffffff;
+    
+        }
+    
+    
+        .btn-primary{
+    
+    background-color: #000000
+    
+    
+        }
